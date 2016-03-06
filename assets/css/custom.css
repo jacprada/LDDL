@@ -33,3 +33,5 @@ p, input, textarea, span {
 .team-portrait {
   width: 350px;
 }
+@media only screen and (max-width: 1200px) {
+}
