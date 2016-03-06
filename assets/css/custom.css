@@ -1,3 +1,16 @@
+.brand-heading,
+.intro-tagline,
+h2, h3, a.btn, button.btn,
+.navbar-brand,
+.navbar-nav > li > a,
+p, input, textarea, span {
+  font-family: Palatino !important;
+}
+
+/*body {
+  font-family: Palatino !important;
+}*/
+
 .nav-brand {
   line-height: 20px;
   height: auto;
