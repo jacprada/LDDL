@@ -2,6 +2,10 @@
   background-position: 50% 150px;
 }
 
+.intro-tagline {
+  color: #4a858f !important;
+}
+
 .about-logo {
   margin: 30% auto;
 }
