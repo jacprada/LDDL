@@ -83,10 +83,10 @@ p, input, textarea, span {
 }
 
 @media only screen and (max-width: 767px) {
-  .team-paragraph {
+/*  .team-paragraph {
     max-width: 236px;
     margin: 0 auto;
-  }
+  }*/
 
   .navbar-header {
     margin-left: -2.5px !important;
